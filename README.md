@@ -52,6 +52,9 @@ This phase highlighted the intricacies of software compatibility and the importa
 
 ## Part 3: Post-Installation Configuration
 
+![PostInstalltion ConfigUse](https://github.com/GrifCodes/osticket-prereqs/assets/150773923/00d0c7c8-fe91-466a-950e-9d1edaab7676)
+
+
 ### Effective Configuration Strategies
 I focused on creating clear, role-based access controls and organizing departments and teams for optimal workflow.
 
