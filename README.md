@@ -17,6 +17,9 @@ This repository encapsulates my journey with osTicket, a robust and versatile ti
 
 ## Part 1: Virtual Machine Setup in Azure
 
+![Virtual Machine Setup Use](https://github.com/GrifCodes/osticket-prereqs/assets/150773923/3dc6c390-447c-4be5-9f9d-7c7b1024ba0d)
+
+
 ### Key Learnings
 - **Resource Management**: Gained a solid understanding of organizing and managing resources in Azure, which is crucial for efficient project management.
 - **VM Configuration**: Learned the importance of choosing the right VM specifications, balancing performance needs with resource utilization.
@@ -31,6 +34,9 @@ This part of the lab reinforced the importance of a strong foundation in cloud i
 ---
 
 ## Part 2: osTicket Installation
+
+![osTicketInstallationUse](https://github.com/GrifCodes/osticket-prereqs/assets/150773923/7f72f842-e899-49ec-a39a-d3cb58a12c88)
+
 
 ### Challenges and Solutions
 One challenge was ensuring compatibility between different software components. This was overcome by meticulous version management and understanding software dependencies.
@@ -57,7 +63,7 @@ This stage was a deep dive into the administrative aspects of osTicket, undersco
 
 ---
 
-## Part 4: Tickets and Ticket Lifecycle
+## Part 4: Ticket Lifecycle
 
 ### Understanding Ticket Prioritization
 Explored various strategies for triaging tickets, emphasizing the need for a balance between urgency and resource allocation.
