@@ -1,6 +1,3 @@
-# osTicket in the Cloud: A Skill-Building Chronicle
-
-
 ![osTicketBannerImage](https://github.com/GrifCodes/osticket-prereqs/assets/150773923/49620454-17d2-4620-b42c-f85af665bd22)
 
 # osTicket Mastery: Insights from Lab Experience
