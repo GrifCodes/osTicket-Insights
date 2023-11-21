@@ -68,6 +68,9 @@ This stage was a deep dive into the administrative aspects of osTicket, undersco
 
 ## Part 4: Ticket Lifecycle
 
+![TicketLifecycleUse](https://github.com/GrifCodes/osticket-prereqs/assets/150773923/71078235-ea58-422c-976d-bf9945c91963)
+
+
 ### Understanding Ticket Prioritization
 Explored various strategies for triaging tickets, emphasizing the need for a balance between urgency and resource allocation.
 
