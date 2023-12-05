@@ -81,4 +81,7 @@ This part of the lab was immensely practical, providing insights into real-world
 
 ## Conclusion
 
-My journey with osTicket has been enriching and multifaceted. From technical setup to strategic management, these labs have equipped me with a well-rounded skill set, preparing me for real-world applications of ticketing systems. The experience has been a testament to the importance of continuous learning and adaptability in the ever-evolving field of IT support.
+My journey with osTicket has been enriching and multifaceted. From technical setup to strategic management, these labs have equipped me with a well-rounded skill set, preparing me for real-world applications of ticketing systems. The experience has been a testament to the importance of continuous learning and adaptability in the ever-evolving field of IT support
+
+For a detailed, step-by-step guide to setting up osTicket, please visit [this repository](https://github.com/GrifCodes/osTicket-extended-setup/blob/main/README.md).
+
